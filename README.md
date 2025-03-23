@@ -53,4 +53,5 @@ API: La API de Rick and Morty fue seleccionada por su amplia documentación y da
 Estructura del proyecto: Se organizó el código en carpetas (models, providers, screens, services) para mantenerlo modular y escalable.
 
 
-Autor: Geydis Mantilla Gras
+## Autor: 
+Geydis Mantilla Gras
